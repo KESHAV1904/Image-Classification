@@ -1,4 +1,3 @@
-# Image-Classification
-## The first code is trained with CIFAR-10 dataset 
-## The second code is trained with CIFAR-100 dataset
-### 
+# Convolutional Neural Networks on CIFAR-10 and CIFAR-100
+## Overview
+This project demonstrates the application of Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 and CIFAR-100 datasets.
